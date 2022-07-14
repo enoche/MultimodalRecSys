@@ -9,7 +9,7 @@ A curated list of awesome multimodal recommendation resources (_code first_).
 
 ## Public datasets (Link verfied :heavy_check_mark:)
 - [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
-  - [Text/Image features processed version of Baby/Sport/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
+  - [Features processed version of Baby/Sports/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
 - [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
 
 
