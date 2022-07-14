@@ -1,7 +1,17 @@
 # Multimodal Recommender Systems
-A curated list of awesome multimodal recommendation resources (_code first_).
+A curated list of awesome multimodal recommendation resources (_code first_).  *Last updated: 2022/07/14*
+Please contact us if your work is not in the list.  
 
-*Last updated: 2022/07/14*
+
+```
+@misc{zhou2022bootstrap,
+      title={Bootstrap Latent Representations for Multi-modal Recommendation}, 
+      author={Xin Zhou and Hongyu Zhou and Yong Liu and Zhiwei Zeng and Chunyan Miao and Pengwei Wang and Yuan You and Feijun Jiang},
+      year={2022},
+      eprint={2207.05969},
+      archivePrefix={arXiv}
+}
+```
 
 ## Survey
 
