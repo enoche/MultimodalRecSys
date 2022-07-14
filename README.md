@@ -7,9 +7,9 @@ A curated list of awesome multimodal recommendation resources (_code first_).
 
 - [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org/doi/10.1145/3407190) - Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **ACM Computing Surveys, Sep 2021**
 
-## Dataset
+## Public datasets (Link verfied :heavy_check_mark:)
 - [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
-  - [Processed version Baby/Sport/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
+  - [Text/Image features processed version of Baby/Sport/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
 - [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
 
 
