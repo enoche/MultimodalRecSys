@@ -93,7 +93,7 @@ A curated list of awesome multimodal recommendation resources (_code first_). Pl
 - [Image and Video Understanding for Recommendation and Spam Detection Systems](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3394486.3406485) - Aman Gupta, Sirjan Kafle, Di Wen, Dylan Wang, Sumit Srivastava, Suhit Sinha, Nikita Gupta, Bharat Jain, Ananth Sankar, Liang Zhang. **KDD, Aug 2020**
 - [Exploring the Power of Visual Features for the Recommendation of Movies](https://dl.acm.org/doi/10.1145/3320435.3320470) - Mohammad Hossein Rimaz, Mehdi Elahi, Farshad Bakhshandegan Moghadam, Christoph Trattner, Reza Hosseini, Marko Tkalčič . **UMAP, Jun 2019**
 - [Visually-Aware Personalized Recommendation using Interpretable Image Representations](https://arxiv.org/pdf/1806.09820.pdf) -Charles Packer, Julian McAuley, Arnau Ramisa. **arxiv, 2018**
-- [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017**
+- [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org/doi/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017**
 
 
 ### Public Datasets (Link verfied :heavy_check_mark:)
