@@ -17,17 +17,13 @@ A curated list of awesome multimodal recommendation resources (_code first_). Pl
 
 - [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org/doi/10.1145/3407190) - Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **ACM Computing Surveys, Sep 2021**
 
-## Public datasets (Link verfied :heavy_check_mark:)
-- [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
-  - [Features processed version of Baby/Sports/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
-- [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
-
 
 ## Table of Contents
 - [General](#general)
 - [Modality-specific Recommendation](#modality-specific-recommendation)
   - [Textual-based Recommendation](#textual-based-recommendation)
   - [Image-based Recommendation](#image-based-recommendation)
+- [Public Datasets](#public-datasets-link-verfied-heavy_check_mark)
 
 ## General
 
@@ -98,5 +94,11 @@ A curated list of awesome multimodal recommendation resources (_code first_). Pl
 - [Exploring the Power of Visual Features for the Recommendation of Movies](https://dl.acm.org/doi/10.1145/3320435.3320470) - Mohammad Hossein Rimaz, Mehdi Elahi, Farshad Bakhshandegan Moghadam, Christoph Trattner, Reza Hosseini, Marko Tkalčič . **UMAP, Jun 2019**
 - [Visually-Aware Personalized Recommendation using Interpretable Image Representations](https://arxiv.org/pdf/1806.09820.pdf) -Charles Packer, Julian McAuley, Arnau Ramisa. **arxiv, 2018**
 - [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017**
+
+
+### Public Datasets (Link verfied :heavy_check_mark:)
+- [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
+  - [Features processed version of Baby/Sports/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
+- [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
 
 
