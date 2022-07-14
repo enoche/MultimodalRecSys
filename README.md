@@ -1,4 +1,4 @@
-# MultimodalRecSys
+# Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (_code first_).
 
 *Last updated: 2022/07/14*
