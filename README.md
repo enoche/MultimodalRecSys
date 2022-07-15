@@ -1,5 +1,5 @@
 # Multimodal Recommender Systems
-A curated list of awesome multimodal recommendation resources (_code first: messy code is better than no code._). Please contact us if your work is not in the list.  
+A curated list of awesome multimodal recommendation resources (***code first***: messy code is better than no code._). Please contact us if your work is not in the list.  
 *- Last updated: 2022/07/15 (SIGIR'22 Updated)*  
 
 
@@ -21,7 +21,7 @@ A curated list of awesome multimodal recommendation resources (_code first: mess
 ## Table of Contents
 - [General](#general)
 - [Modality-specific Recommendation](#modality-specific-recommendation)
-  - [Textual-based Recommendation](#textual-based-recommendation)
+  - [Text-based Recommendation](#text-based-recommendation)
   - [Image-based Recommendation](#image-based-recommendation)
 - [Public Datasets](#public-datasets-link-verfied-heavy_check_mark)
 
@@ -53,7 +53,7 @@ A curated list of awesome multimodal recommendation resources (_code first: mess
 - [GraphCAR: Content-aware Multimedia Recommendation with Graph Autoencoder](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3209978.3210117) - Qidi Xu, Fumin Shen, Li Liu, Heng Tao Shen. **SIGIR, Jul 2018**
 
 ## Modality-specific Recommendation
-### Textual-based Recommendation
+### Text-based Recommendation
 
 #### Review-based ####
 
