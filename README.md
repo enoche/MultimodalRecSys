@@ -83,11 +83,11 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 
 #### Title, abstract, tag ####
 
-- [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3416021) - Qi Liu, Ruobing Xie, Lei Chen, Shukai Liu, Ke Tu, Peng Cui, Bo Zhang, Leyu Lin. **CIKM, Oct 2020** | [`[code]`](https://github.com/lqfarmer/GraphTR)
+- [Graph Neural Network for Tag Ranking in Tag-enhanced Video Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3416021) - Qi Liu, Ruobing Xie, Lei Chen, Shukai Liu, Ke Tu, Peng Cui, Bo Zhang, Leyu Lin. **CIKM, Oct 2020** | [`[pdf]`](https://nlp.csai.tsinghua.edu.cn/~xrb/publications/CIKM-20_GraphTR.pdf) | [`[code]`](https://github.com/lqfarmer/GraphTR)
 
-- [Leveraging Title-Abstract Attentive Semantics for Paper Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/5335) - Guibing Guo, Bowei Chen, Xiaoyan Zhang, Zhirong Liu, Zhenhua Dong, Xiuqiang He. **AAAI, Apr 2020**
-- [Interactive resource recommendation algorithm based on tag information](https://link.springer.com.remotexs.ntu.edu.sg/content/pdf/10.1007/s11280-018-0532-y.pdf) - Qing Xie. Feng Xiong. Tian Han. Yongjian Liu. Lin Li. Zhifeng Bao. **WWW, Feb 2018**
-- [Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/2983323.2983682) - Yong Wu, Yuan Yao, Feng Xu, Hanghang Tong, Jian Lu. **CIKM, Oct 2016**
+- [Leveraging Title-Abstract Attentive Semantics for Paper Recommendation](https://ojs.aaai.org//index.php/AAAI/article/view/5335) - Guibing Guo, Bowei Chen, Xiaoyan Zhang, Zhirong Liu, Zhenhua Dong, Xiuqiang He. **AAAI, Apr 2020** | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/download/5335/5191)
+- [Interactive resource recommendation algorithm based on tag information](https://link.springer.com/article/10.1007/s11280-018-0532-y) - Qing Xie. Feng Xiong. Tian Han. Yongjian Liu. Lin Li. Zhifeng Bao. **WWW, Feb 2018**
+- [Tag2Word: Using Tags to Generate Words for Content Based Tag Recommendation](https://dl.acm.org/doi/10.1145/2983323.2983682) - Yong Wu, Yuan Yao, Feng Xu, Hanghang Tong, Jian Lu. **CIKM, Oct 2016** | [`[pdf]`](https://cs.nju.edu.cn/yuanyao/static/cikm2016.pdf)
 
 
 ### Image-based Recommendation
