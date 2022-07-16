@@ -91,13 +91,14 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 
 
 ### Image-based Recommendation
+- [CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation](https://arxiv.org/abs/2107.02390) - Ruihong Qiu, Sen Wang, Zhi Chen, Hongzhi Yin, and Zi Huang. **MM, Oct 2021** | [`[pdf]`](https://arxiv.org/pdf/2107.02390.pdf) | [`[code]`](https://github.com/RuihongQiu/cornac/tree/master/cornac/models/causalrec)
 - [VBPR: Visual Bayesian Personalized Ranking from Implicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/9973) - Ruining He, Julian McAuley. **AAAI, Feb 2016** | [`[pdf]`](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/download/11914/11576) | [`[code]`](https://github.com/arogers1/VBPR)
 
-- [CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation](https://arxiv.org/pdf/2107.02390.pdf) - Ruihong Qiu, Sen Wang, Zhi Chen, Hongzhi Yin, and Zi Huang. **MM, Oct 2021**
-- [Image and Video Understanding for Recommendation and Spam Detection Systems](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3394486.3406485) - Aman Gupta, Sirjan Kafle, Di Wen, Dylan Wang, Sumit Srivastava, Suhit Sinha, Nikita Gupta, Bharat Jain, Ananth Sankar, Liang Zhang. **KDD, Aug 2020**
-- [Exploring the Power of Visual Features for the Recommendation of Movies](https://dl.acm.org/doi/10.1145/3320435.3320470) - Mohammad Hossein Rimaz, Mehdi Elahi, Farshad Bakhshandegan Moghadam, Christoph Trattner, Reza Hosseini, Marko Tkalčič . **UMAP, Jun 2019**
-- [Visually-Aware Personalized Recommendation using Interpretable Image Representations](https://arxiv.org/pdf/1806.09820.pdf) -Charles Packer, Julian McAuley, Arnau Ramisa. **arxiv, 2018**
-- [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org/doi/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017**
+
+- [Image and Video Understanding for Recommendation and Spam Detection Systems](https://dl.acm.org/doi/10.1145/3394486.3406485) - Aman Gupta, Sirjan Kafle, Di Wen, Dylan Wang, Sumit Srivastava, Suhit Sinha, Nikita Gupta, Bharat Jain, Ananth Sankar, Liang Zhang. **KDD, Aug 2020**
+- [Exploring the Power of Visual Features for the Recommendation of Movies](https://dl.acm.org/doi/10.1145/3320435.3320470) - Mohammad Hossein Rimaz, Mehdi Elahi, Farshad Bakhshandegan Moghadam, Christoph Trattner, Reza Hosseini, Marko Tkalčič . **UMAP, Jun 2019** | [`[pdf]`](https://www.christophtrattner.com/pubs/UMAP2019.pdf)
+- [Visually-Aware Personalized Recommendation using Interpretable Image Representations](https://arxiv.org/abs/1806.09820) -Charles Packer, Julian McAuley, Arnau Ramisa. **arxiv, 2018**  | [`[pdf]`](https://arxiv.org/pdf/1806.09820.pdf)
+- [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org/doi/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017** | [`[pdf]`](http://shuwu.name/sw/DeepStyle.pdf)
 
 
 ### Public Datasets (Link verfied :heavy_check_mark:)
