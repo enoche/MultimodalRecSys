@@ -45,13 +45,13 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 
 - [Multi-modal Graph Contrastive Learning for Micro-video Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3532027) -  Zixuan Yi, Xi Wang, Iadh Ounis, Craig Macdonald. **SIGIR, Jul 2022**
 - [MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531896) - Chuhan Wu, Fangzhao Wu, Tao Qi, Chao Zhang, Yongfeng Huang, Tong Xu. **SIGIR, Jul 2022**
-- [Disentangled Multimodal Representation Learning for Recommendation](https://arxiv.org/abs/2203.05406) - Fan Liu, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. **arxiv, Mar 2022**
+- [Disentangled Multimodal Representation Learning for Recommendation](https://arxiv.org/abs/2203.05406) - Fan Liu, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. **arxiv, Mar 2022**  | [`[pdf]`](https://arxiv.org/pdf/2203.05406.pdf)
 - [A two-stage embedding model for recommendation with multimodal auxiliary information](https://www.sciencedirect.com/science/article/abs/pii/S0020025521009270) - Juan Ni, Zhenhua Huang, Yang Hu, Chen Lin. **Information Sciences, Jan 2022**
-- [Multi-modal Knowledge Graphs for Recommender Systems](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3340531.3411947) - Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang and Kai Zheng. **CIKM, Oct 2020**
-- [User-Video Co-Attention Network for Personalized Micro-video Recommendation](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3308558.3313513) -Shang Liu, Zhenzhong Chen, Hongyi Liu, Xinghai Hu. **WWW, May 2019**
+- [Multi-modal Knowledge Graphs for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3340531.3411947) - Rui Sun, Xuezhi Cao, Yan Zhao, Junchen Wan, Kun Zhou, Fuzheng Zhang, Zhongyuan Wang and Kai Zheng. **CIKM, Oct 2020** [`[pdf]`](https://zheng-kai.com/paper/cikm_2020_sun.pdf)
+- [User-Video Co-Attention Network for Personalized Micro-video Recommendation](https://dl.acm.org/doi/10.1145/3308558.3313513) -Shang Liu, Zhenzhong Chen, Hongyi Liu, Xinghai Hu. **WWW, May 2019**
 - [Personalized Fashion Recommendation with Visual Explanations based on Multimodal Attention Network](https://dl.acm.org/doi/10.1145/3331184.3331254) - Xu Chen, Hanxiong Chen, Hongteng Xu, Yongfeng Zhang, Yixin Cao, Zheng Qin, Hongyuan Zha. **SIGIR, Jul 2019**
 - [Multimodal Representation Learning for Recommendation in Internet of Things](https://ieeexplore.ieee.org/document/8832204) - Zhenhua Huang, Xin Xu, Juan Ni, Honghao Zhu, and Cheng Wang. **IEEE IoTJ, Sep 2019**
-- [GraphCAR: Content-aware Multimedia Recommendation with Graph Autoencoder](https://dl.acm.org.remotexs.ntu.edu.sg/doi/pdf/10.1145/3209978.3210117) - Qidi Xu, Fumin Shen, Li Liu, Heng Tao Shen. **SIGIR, Jul 2018**
+- [GraphCAR: Content-aware Multimedia Recommendation with Graph Autoencoder](https://dl.acm.org/doi/10.1145/3209978.3210117) - Qidi Xu, Fumin Shen, Li Liu, Heng Tao Shen. **SIGIR, Jun 2018**
 
 ## Modality-specific Recommendation
 ### Text-based Recommendation
