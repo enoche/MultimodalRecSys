@@ -4,12 +4,11 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 
 
 ```
-@misc{zhou2022bootstrap,
-      title={Bootstrap Latent Representations for Multi-modal Recommendation}, 
-      author={Xin Zhou and Hongyu Zhou and Yong Liu and Zhiwei Zeng and Chunyan Miao and Pengwei Wang and Yuan You and Feijun Jiang},
-      year={2022},
-      eprint={2207.05969},
-      archivePrefix={arXiv}
+@article{zhou2022bootstrap,
+  title={Bootstrap Latent Representations for Multi-modal Recommendation},
+  author={Zhou, Xin and Zhou, Hongyu and Liu, Yong and Zeng, Zhiwei and Miao, Chunyan and Wang, Pengwei and You, Yuan and Jiang, Feijun},
+  journal={arXiv preprint arXiv:2207.05969},
+  year={2022}
 }
 ```
 
