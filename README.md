@@ -1,6 +1,6 @@
 # Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
-*- Last updated: 2022/07/16 (SIGIR'22 Updated)*  
+*- Last updated: 2022/08/08 (SIGIR'22 Updated)*  
 
 
 ```
@@ -28,6 +28,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 
 
 - [Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969) - Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang. **arxiv, Jul 2022** | [`[pdf]`](https://arxiv.org/pdf/2207.05969.pdf) | [`[code]`](https://github.com/enoche/BM3)
+- [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/document/9811387) - Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua. **TMM, Jun 2022** | [`[code]`](https://github.com/zltao/SLMRec)
 - [Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation](https://arxiv.org/abs/2111.00678) - Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Mengqi Zhang, Shu Wu, Liang Wang. **arxiv, Mar 2022** (Extended version of LATTICE which has been published in MM21) | [`[pdf]`](https://arxiv.org/pdf/2111.00678.pdf)  | [`[code]`](https://github.com/cripac-dig/micro)
 - [DualGNN: Dual Graph Neural Network for Multimedia Recommendation](https://ieeexplore.ieee.org/abstract/document/9662655)  - Qifan Wang, Yinwei Wei, Jianhua Yin, Jianlong Wu, Xuemeng Song, Liqiang Nie.  **IEEE TMM, Dec 2021**  | [`[code]`](https://github.com/wqf321/dualgnn)
 - [Mining Latent Structures for Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475259) - Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Shu Wu, Shuhui Wang, Liang Wang. **MM, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2104.09036.pdf)  | [`[code]`](https://github.com/CRIPAC-DIG/LATTICE)
