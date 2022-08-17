@@ -22,7 +22,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Modality-specific Recommendation](#modality-specific-recommendation)
   - [Text-based Recommendation](#text-based-recommendation)
   - [Image-based Recommendation](#image-based-recommendation)
-- [Public Datasets](#public-datasets-link-verfied-heavy_check_mark)
+- [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
 
@@ -101,7 +101,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [DeepStyle: Learning User Preferences for Visual Recommendation](https://dl.acm.org/doi/10.1145/3077136.3080658) -Qiang Liu, Shu Wu, Liang Wang. **SIGIR, Aug 2017** | [`[pdf]`](http://shuwu.name/sw/DeepStyle.pdf)
 
 
-### Public Datasets (Link verfied :heavy_check_mark:)
+### Public Datasets (Link verified :heavy_check_mark:)
 - [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
   - [Features processed version of Baby/Sports/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
 - [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
