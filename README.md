@@ -1,6 +1,6 @@
 # Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
-*- Last updated: 2022/08/08 (SIGIR'22 Updated)*  
+*- Last updated: 2022/08/30 (KDD'22 Partially Updated)*  
 
 
 ```
