@@ -12,6 +12,10 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 }
 ```
 
+## Framework
+[With 9 multimodal models](https://github.com/enoche/MMRec)
+
+
 ## Survey
 
 - [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org/doi/10.1145/3407190) - Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **ACM Computing Surveys, Sep 2021**
