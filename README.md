@@ -13,7 +13,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 ```
 
 ## [A Unified Multimodal Recommendation Framework](https://github.com/enoche/MMRec), $\text{MMRec}$, which currently integrates:
-- 9 multimodal models
+- 10 multimodal models
 - various general CF models
 
 
