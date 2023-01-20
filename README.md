@@ -47,7 +47,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [User Diverse Preference Modeling by Multimodal Attentive Metric Learning](https://dl.acm.org/doi/10.1145/3343031.3350953) - Fan Liu, Zhiyong Cheng, Changchang Sun, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. **MM, Oct 2019** | [`[pdf]`](https://arxiv.org/pdf/1908.07738.pdf) | [`[code]`](https://github.com/liufancs/MAML)
 - [MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](https://dl.acm.org/doi/10.1145/3343031.3351034) - Yinwei Wei, Xiang Wang, Liqiang Nie, Xiangnan He, Richang Hong, Tat-Seng Chua. **MM, Oct 2019** | [`[pdf]`](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf) | [`[code]`](https://github.com/weiyinwei/MMGCN)
 
-
+- [Learning Hybrid Behavior Patterns for Multimedia Recommendation](https://dl.acm.org/doi/abs/10.1145/3503161.3548119) - Zongshen Mu, Yueting Zhuang, Jie Tan, Jun Xiao, Siliang Tang. **MM, Oct 2022**
 - [Multi-modal Graph Contrastive Learning for Micro-video Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3532027) -  Zixuan Yi, Xi Wang, Iadh Ounis, Craig Macdonald. **SIGIR, Jul 2022**
 - [MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531896) - Chuhan Wu, Fangzhao Wu, Tao Qi, Chao Zhang, Yongfeng Huang, Tong Xu. **SIGIR, Jul 2022**
 - [Disentangled Multimodal Representation Learning for Recommendation](https://arxiv.org/abs/2203.05406) - Fan Liu, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. **arxiv, Mar 2022**  | [`[pdf]`](https://arxiv.org/pdf/2203.05406.pdf)
