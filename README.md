@@ -1,7 +1,9 @@
 # Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
 *- Last updated: 2023/01/20 (MM'22 Partially Updated)*  
-*- :interrobang: 此文章本人尝试联系作者提供源代码或提出复现，而作者未作任何回应。如大家有相关源代码或可以复现，请联系我。
+*- :interrobang: 作者未回应提供源代码请求。如大家有相关源代码或可以复现，请联系我。  
+*- :x: 不可复现
+
 
 ```
 @article{zhou2022bootstrap,
@@ -39,7 +41,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Mining Latent Structures for Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3474085.3475259) - Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Shu Wu, Shuhui Wang, Liang Wang. **MM, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2104.09036.pdf)  | [`[code]`](https://github.com/CRIPAC-DIG/LATTICE)
 - [Pre-training Graph Transformer with Multimodal Side Information for Recommendation](https://dl.acm.org/doi/abs/10.1145/3474085.3475709) - Yong Liu, Susen Yang, Chenyi Lei, Guoxin Wang, Haihong Tang, Juyong Zhang, Aixin Sun and Chunyan Miao. **MM, Oct 2021** | [`[pdf]`](https://arxiv.org/pdf/2010.12284.pdf) | [`[code]`](https://github.com/uoo723/PMGT)
 - [Why Do We Click: Visual Impression-aware News Recommendation](https://dl.acm.org/doi/10.1145/3474085.3475514) - Jiahao Xun, Shengyu Zhang, Zhou Zhao, Jieming Zhu, Qi Zhang, Jingjie Li, Xiuqiang He, Xiaofei He, Tat-Seng Chua, Fei Wu. **MM, Oct 2021**  | [`[pdf]`](https://arxiv.org/pdf/2109.12651.pdf) | [`[code]`](https://github.com/JiahaoXun/IMRec)
-- [Multi-Modal Variational Graph Auto-Encoder for Recommendation Systems](https://ieeexplore.ieee.org/document/9535249) - Jing Yi and Zhenzhong Chen. **IEEE TMM, Sep 2021**  | [`[code]`](https://github.com/jing-1/MVGAE) :interrobang: 
+- [Multi-Modal Variational Graph Auto-Encoder for Recommendation Systems](https://ieeexplore.ieee.org/document/9535249) - Jing Yi and Zhenzhong Chen. **IEEE TMM, Sep 2021**  | [`[code]`](https://github.com/jing-1/MVGAE) :x:
 - [Recommendation by Users' Multimodal Preferences for Smart City Applications](https://ieeexplore.ieee.org/document/9152003) - Cai Xu , Ziyu Guan , Member, IEEE, Wei Zhao , Quanzhou Wu , Meng Yan, Long Chen and Qiguang Miao. **IEEE TII, Jul 2021**  | [`[code]`](https://github.com/winterant/UMPR) 
 - [Adversarial Training Towards Robust Multimedia Recommender System](https://ieeexplore.ieee.org/document/8618394) - Jinhui Tang, Xiaoyu Du, Xiangnan He, Fajie Yuan, Qi Tian and Tat-Seng Chua. **IEEE TKDE, May 2020** | [`[pdf]`](https://arxiv.org/pdf/1809.07062.pdf) | [`[code]`](https://github.com/duxy-me/AMR)
 - [MGAT: Multimodal Graph Attention Network for Recommendation](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300182) - Zhulin Tao, Yinwei Wei, Xiang Wang, Xiangnan He, Xianglin Huang, Tat-Seng Chua. **Information Processing & Management, Apr 2020** | [`[code]`](https://github.com/zltao/MGAT)
