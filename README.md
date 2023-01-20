@@ -1,7 +1,7 @@
 # Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
-*- Last updated: 2022/08/30 (KDD'22 Partially Updated)*  
-
+*- Last updated: 2023/01/20 (MM'22 Partially Updated)*  
+*- 此文章本人尝试联系作者提供源代码或提出复现问题，而作者未作任何回应。如大家有相关源代码或可以复现，请联系我。
 
 ```
 @article{zhou2022bootstrap,
