@@ -3,7 +3,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 *- Last updated: 2023/01/20 (MM'22 Partially Updated)*  
 - :grey_question: 作者未回应提供源代码请求。如大家有相关源代码或可以复现，请联系我。  
 - :x: 不可复现  
-- :heart: 希望大家一起把 [MMec]https://github.com/enoche/MMRec) 这个领域做扎实！  
+- :heart: 希望大家一起把 [多模态推荐](https://github.com/enoche/MultimodalRecSys) 这个领域做扎实！  
 
 
 ```
