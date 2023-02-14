@@ -13,6 +13,13 @@ A curated list of awesome multimodal recommendation resources (***code first***:
   journal={arXiv preprint arXiv:2207.05969},
   year={2022}
 }
+
+@article{zhou2023comprehensive,
+      title={A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions}, 
+      author={Hongyu Zhou and Xin Zhou and Zhiwei Zeng and Lingzi Zhang and Zhiqi Shen},
+      year={2023},
+      journal={arXiv preprint arXiv:2302.04473},
+}
 ```
 
 ## [A Unified Multimodal Recommendation Framework](https://github.com/enoche/MMRec), $\text{MMRec}$, which currently integrates:
