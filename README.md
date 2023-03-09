@@ -41,9 +41,10 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
-
+  
 - [Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969) - Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2207.05969.pdf) | [`[code]`](https://github.com/enoche/BM3)  
 - [Multi-Modal Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2302.10632) - Wei Wei, Chao Huang, Lianghao Xia, Chuxu Zhang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2302.10632.pdf) | [`[code]`](https://github.com/HKUDS/MMSSL)  
+- [Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation](https://arxiv.org/abs/2301.12097) - Hongyu Zhou, Xin Zhou, Lingzi Zhang, Zhiqi Shen. **arxiv, Feb 2023** | [`[pdf]`](https://arxiv.org/pdf/2301.12097.pdf) | [`[code]`](https://github.com/hongyurain/DRAGON)  
 - [A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation](https://arxiv.org/abs/2211.06924) - Xin Zhou. **arxiv, Nov 2022** | [`[pdf]`](https://arxiv.org/pdf/2211.06924.pdf) | [`[code]`](https://github.com/enoche/FREEDOM)
 - [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/document/9811387) - Zhulin Tao, Xiaohao Liu, Yewei Xia, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua. **TMM, Jun 2022** | [`[code]`](https://github.com/zltao/SLMRec)
 - [Latent Structure Mining with Contrastive Modality Fusion for Multimedia Recommendation](https://arxiv.org/abs/2111.00678) - Jinghao Zhang, Yanqiao Zhu, Qiang Liu, Mengqi Zhang, Shu Wu, Liang Wang. **arxiv, Mar 2022** (Extended version of LATTICE which has been published in MM21) | [`[pdf]`](https://arxiv.org/pdf/2111.00678.pdf)  | [`[code]`](https://github.com/cripac-dig/micro)
