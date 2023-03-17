@@ -29,8 +29,8 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 
 ## Survey
 
-- [A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions](https://arxiv.org/abs/2302.04473) - Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Zhiqi Shen. **
-- [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org/doi/10.1145/3407190) - Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **arxiv, Feb 2023**
+- [A Comprehensive Survey on Multimodal Recommender Systems: Taxonomy, Evaluation, and Future Directions](https://arxiv.org/abs/2302.04473) - Hongyu Zhou, Xin Zhou, Zhiwei Zeng, Lingzi Zhang, Zhiqi Shen. **arxiv, Feb 2023**
+- [Recommender Systems Leveraging Multimedia Content](https://dl.acm.org/doi/10.1145/3407190) - Yashar Deldjoo, Markus Schedl, Paolo Cremonesi, Gabriella Pasi. **ACM Computing Surveys, Sep 2020**
 
 
 ## Table of Contents
