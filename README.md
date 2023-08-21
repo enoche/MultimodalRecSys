@@ -1,6 +1,6 @@
 # Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
-*- Last updated: 2023/01/20 (MM'22 Partially Updated)*  
+*- Last updated: 2023/01/20 (MM'23 Partially Updated)*  
 - :question: 作者未回应提供源代码请求。如大家有相关源代码或可以复现，请联系我。  
 - :x: 不可复现  
 - :heart: 希望大家一起把 [多模态推荐](https://github.com/enoche/MultimodalRecSys) 这个领域做扎实！  
@@ -42,7 +42,8 @@ year = {2023}
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
-  
+
+- [Pareto Invariant Representation Learning for Multimedia Recommendation](https://arxiv.org/abs/2308.04706) - Shanshan Huang, Haoxuan Li, Qingsong Li, Chunyuan Zheng, Li Liu. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/pdf/2308.04706.pdf)  
 - [Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969) - Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2207.05969.pdf) | [`[code]`](https://github.com/enoche/BM3)  
 - [Multi-Modal Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2302.10632) - Wei Wei, Chao Huang, Lianghao Xia, Chuxu Zhang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2302.10632.pdf) | [`[code]`](https://github.com/HKUDS/MMSSL)  
 - [Enhancing Dyadic Relations with Homogeneous Graphs for Multimodal Recommendation](https://arxiv.org/abs/2301.12097) - Hongyu Zhou, Xin Zhou, Lingzi Zhang, Zhiqi Shen. **arxiv, Feb 2023** | [`[pdf]`](https://arxiv.org/pdf/2301.12097.pdf) | [`[code]`](https://github.com/hongyurain/DRAGON)  
