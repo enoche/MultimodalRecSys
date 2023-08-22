@@ -44,7 +44,7 @@ year = {2023}
 ## General
 
 - [A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation](https://arxiv.org/abs/2211.06924) - Xin Zhou. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/pdf/2211.06924.pdf) | [`[code]`](https://github.com/enoche/FREEDOM)
-- [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://arxiv.org/abs/2308.03588) - Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2308/2308.03588.pdf)  
+- [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://arxiv.org/abs/2308.03588) - Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2308/2308.03588.pdf)  | [`[code]`](https://github.com/demonph10/MGCN) 
 - [Pareto Invariant Representation Learning for Multimedia Recommendation](https://arxiv.org/abs/2308.04706) - Shanshan Huang, Haoxuan Li, Qingsong Li, Chunyuan Zheng, Li Liu. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/pdf/2308.04706.pdf)  
 - [Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969) - Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2207.05969.pdf) | [`[code]`](https://github.com/enoche/BM3)  
 - [Multi-Modal Self-Supervised Learning for Recommendation](https://arxiv.org/abs/2302.10632) - Wei Wei, Chao Huang, Lianghao Xia, Chuxu Zhang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2302.10632.pdf) | [`[code]`](https://github.com/HKUDS/MMSSL)  
