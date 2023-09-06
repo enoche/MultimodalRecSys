@@ -34,7 +34,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
-
+- [Prompt-based and weak-modality enhanced multimodal recommendation](https://www.sciencedirect.com/science/article/abs/pii/S1566253523003056) - Xue Dong, Xuemeng Song, Minghui Tian, Linmei Hu. **Information Fusion, Sep 2023**  | [`[code]`](https://github.com/hello-dx/POWERec) 
 - [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://arxiv.org/abs/2308.03588) - Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. **arXiv, Aug 2023** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2308/2308.03588.pdf)  | [`[code]`](https://github.com/demonph10/MGCN) 
 - [Pareto Invariant Representation Learning for Multimedia Recommendation](https://arxiv.org/abs/2308.04706) - Shanshan Huang, Haoxuan Li, Qingsong Li, Chunyuan Zheng, Li Liu. **arXiv, Aug 2023** | [`[pdf]`](https://arxiv.org/pdf/2308.04706.pdf)  
 - [Bootstrap Latent Representations for Multi-modal Recommendation](https://arxiv.org/abs/2207.05969) - Xin Zhou, Hongyu Zhou, Yong Liu, Zhiwei Zeng, Chunyan Miao, Pengwei Wang, Yuan You, Feijun Jiang. **WWW, May 2023** | [`[pdf]`](https://arxiv.org/pdf/2207.05969.pdf) | [`[code]`](https://github.com/enoche/BM3)  
