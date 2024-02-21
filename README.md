@@ -34,7 +34,8 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
-
+- [Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima](https://arxiv.org/abs/2402.11262) - Shanshan Zhong, Zhongzhan Huang, Daifeng Li, Wushao Wen, Jinghui Qin, Liang Lin. **WWW, Feb 2024** | [`[pdf]`](https://arxiv.org/pdf/2402.11262.pdf) | [`[code]`](https://github.com/Qrange-group/Mirror-Gradient)
+- [LGMRec: Local and Global Graph Learning for Multimodal Recommendation](https://arxiv.org/abs/2312.16400) - Zhiqiang Guo, Jianjun Li, Guohui Li, Chaoyang Wang, Si Shi, Bin Ruan. **AAAI, Dec 2023** | [`[pdf]`](https://arxiv.org/pdf/2312.16400.pdf) | [`[code]`](https://github.com/georgeguo-cn/LGMRec)
 - [A Tale of Two Graphs: Freezing and Denoising Graph Structures for Multimodal Recommendation](https://dl.acm.org/doi/10.1145/3581783.3611943) - Xin Zhou. **MM, Oct 2023** | [`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3581783.3611943) | [`[code]`](https://github.com/enoche/FREEDOM)
 - [Multi-View Graph Convolutional Network for Multimedia Recommendation](https://arxiv.org/abs/2308.03588) - Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/ftp/arxiv/papers/2308/2308.03588.pdf)  | [`[code]`](https://github.com/demonph10/MGCN) 
 - [Pareto Invariant Representation Learning for Multimedia Recommendation](https://arxiv.org/abs/2308.04706) - Shanshan Huang, Haoxuan Li, Qingsong Li, Chunyuan Zheng, Li Liu. **MM, Oct 2023** | [`[pdf]`](https://arxiv.org/pdf/2308.04706.pdf)
