@@ -121,5 +121,8 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Amazon product data 2014] (http://jmcauley.ucsd.edu/data/amazon/links.html)
   - [Features processed version of Baby/Sports/Elec etc.](https://drive.google.com/drive/folders/13cBy1EA_saTUuXxVllKgtfci2A09jyaG?usp=sharing)  
 - [Amazon product data 2018] (https://nijianmo.github.io/amazon/index.html)
+- [PixelRec]  (https://github.com/westlake-repl/PixelRec)
+- [MicroLens] (https://github.com/westlake-repl/MicroLens)
+- [NineRec] (https://github.com/westlake-repl/NineRec)
 
 
