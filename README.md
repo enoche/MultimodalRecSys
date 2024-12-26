@@ -34,6 +34,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
+- [Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation](https://arxiv.org/abs/2412.14978)  - Rongqing Kenneth Ong, Andy W. H. Khong. **arXiv, Dec 2024** | [`[pdf]`](https://arxiv.org/pdf/2412.14978) [`[code]`](https://github.com/kennethorq/SMORE)
 - [IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT
 ](https://arxiv.org/abs/2404.02059) -Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon M Jose. **SIGIR, April 2024** | [`[pdf]`](https://arxiv.org/abs/2404.02059)  [`[code]`](https://github.com/GAIR-Lab/IISAN)
 - [Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima](https://arxiv.org/abs/2402.11262) - Shanshan Zhong, Zhongzhan Huang, Daifeng Li, Wushao Wen, Jinghui Qin, Liang Lin. **WWW, Feb 2024** | [`[pdf]`](https://arxiv.org/pdf/2402.11262.pdf) | [`[code]`](https://github.com/Qrange-group/Mirror-Gradient)
