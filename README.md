@@ -34,6 +34,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
+- [Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0020025523013452) - Sungjune Kim, Seongjun Yun, Jongwuk Lee, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, Hogun Park, Sangpil Kim. **Information Sciences, Jan 2025**
 - [Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation](https://arxiv.org/abs/2412.14978)  - Rongqing Kenneth Ong, Andy W. H. Khong. **arXiv, Dec 2024** | [`[pdf]`](https://arxiv.org/pdf/2412.14978) [`[code]`](https://github.com/kennethorq/SMORE)
 - [IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT
 ](https://arxiv.org/abs/2404.02059) -Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon M Jose. **SIGIR, April 2024** | [`[pdf]`](https://arxiv.org/abs/2404.02059)  [`[code]`](https://github.com/GAIR-Lab/IISAN)
