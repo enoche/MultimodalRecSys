@@ -34,7 +34,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
-- [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429) - Yu, Penghang and Tan, Zhiyi and Lu, Guanming and Bao, Bing-Kun. **AAAI, Apr 2025** | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/view/33429) [`[code]`](https://github.com/enoche/MMRec)
+- [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429) - Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. **AAAI, Apr 2025** | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/view/33429) [`[code]`](https://github.com/enoche/MMRec)
 - [Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation](https://dl.acm.org/doi/10.1145/3701551.3703561)  - Rongqing Kenneth Ong, Andy W. H. Khong. **WSDM, Mar 2025** | [`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3701551.3703561) [`[code]`](https://github.com/kennethorq/SMORE)
 - [Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0020025523013452) - Sungjune Kim, Seongjun Yun, Jongwuk Lee, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, Hogun Park, Sangpil Kim. **Information Sciences, Jan 2025**
 - [IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT
