@@ -34,6 +34,7 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [Public Datasets](#public-datasets-link-verified-heavy_check_mark)
 
 ## General
+- [Learning Item Representations Directly from Multimodal Features for Effective Recommendation](https://arxiv.org/abs/2505.04960) - Xin Zhou, Xiaoxiong Zhang, Dusit Niyato, Zhiqi Shen. **arXiv, May 2025** |  [`[pdf]`](https://arxiv.org/pdf/2505.04960) [`[code]`](https://github.com/enoche/LIRDRec)
 - [Mind Individual Information! Principal Graph Learning for Multimedia Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/33429) - Penghang Yu, Zhiyi Tan, Guanming Lu, Bing-Kun Bao. **AAAI, Apr 2025** | [`[pdf]`](https://ojs.aaai.org/index.php/AAAI/article/view/33429) [`[code]`](https://github.com/enoche/MMRec)
 - [Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation](https://dl.acm.org/doi/10.1145/3701551.3703561)  - Rongqing Kenneth Ong, Andy W. H. Khong. **WSDM, Mar 2025** | [`[pdf]`](https://dl.acm.org/doi/pdf/10.1145/3701551.3703561) [`[code]`](https://github.com/kennethorq/SMORE)
 - [Self-supervised Multimodal Graph Convolutional Network for Collaborative Filtering](https://www.sciencedirect.com/science/article/abs/pii/S0020025523013452) - Sungjune Kim, Seongjun Yun, Jongwuk Lee, Gyusam Chang, Wonseok Roh, Dae-Neung Sohn, Jung-Tae Lee, Hogun Park, Sangpil Kim. **Information Sciences, Jan 2025**
