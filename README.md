@@ -1,6 +1,6 @@
 # Multimodal Recommender Systems
 A curated list of awesome multimodal recommendation resources (***code first***: _messy code is better than no code_). Please contact us if your work is not in the list.  
-*- Last updated: 2024/12/26 *  
+*- Last updated: 2025/05 *  
 - :question: 作者未回应提供源代码请求。如大家有相关源代码或可以复现，请联系我。  
 - :x: 不可复现  
 - :heart: 希望大家一起把 [多模态推荐](https://github.com/enoche/MultimodalRecSys) 这个领域做扎实！  
