@@ -134,5 +134,10 @@ A curated list of awesome multimodal recommendation resources (***code first***:
 - [PixelRec]  (https://github.com/westlake-repl/PixelRec)
 - [MicroLens] (https://github.com/westlake-repl/MicroLens)
 - [NineRec] (https://github.com/westlake-repl/NineRec)
-
+- [MovieLens-1m] (https://github.com/swapUniba/multimodal_ml1m_dbbook_lfm2k)
+  - Textual, Image, Audio, Video features. Described in [RecSys 25 Resource Paper](https://dl.acm.org/doi/full/10.1145/3705328.3748162)
+- [Last.fm-2K] (https://github.com/swapUniba/multimodal_ml1m_dbbook_lfm2k)
+  - Textual, Image, Audio features. Described in [RecSys 25 Resource Paper](https://dl.acm.org/doi/full/10.1145/3705328.3748162)
+- [DBbook] (https://github.com/swapUniba/multimodal_ml1m_dbbook_lfm2k)
+  - Textual, Image, features. Described in [RecSys 25 Resource Paper](https://dl.acm.org/doi/full/10.1145/3705328.3748162)
 
